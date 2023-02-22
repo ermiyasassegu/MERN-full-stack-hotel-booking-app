@@ -13,9 +13,9 @@ const Footer = () => {
         </div>
         <div className={classes.col}>
           <h2 className={classes.title}>Contacts</h2>
-          <span>Youtube: WebDevMania</span>
-          <span>Youtube: WebDevMania</span>
-          <span>Youtube: WebDevMania</span>
+          <span>Twitter: WebDevErmias18</span>
+          <span>Instagram: WebDevErias02</span>
+          <span>Facebook: WebDevErmias08</span>
         </div>
         <div className={classes.col}>
           <h2 className={classes.title}>Privacy policy</h2>

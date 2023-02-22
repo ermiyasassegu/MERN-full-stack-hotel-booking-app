@@ -3,7 +3,7 @@ import classes from './types.module.css'
 import { Link } from 'react-router-dom'
 import { useState } from 'react'
 import { useEffect } from 'react'
-import img from '../../assets/img7.jpg'
+import img from '../../assets/img4.jpg'
 import { useSelector } from 'react-redux'
 
 const Types = () => {
@@ -33,7 +33,7 @@ const Types = () => {
       <div className={classes.wrapper}>
         <div className={classes.titles}>
           <h5 className={classes.subtitle}>Residing place</h5>
-          <h2 className={classes.title}>What type of place you want</h2>
+          <h2 className={classes.title}>What type of places you want</h2>
         </div>
         <div className={classes.types}>
           {Object.entries(types).map(([key, value]) => (

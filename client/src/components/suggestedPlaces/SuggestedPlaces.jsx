@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import classes from './suggestedPlaces.module.css'
 import { AiFillStar } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
-import img from '../../assets/img3.jpg'
+import img from '../../assets/img6.jpg'
 import { useSelector } from 'react-redux'
 
 const SuggestedPlaces = () => {
