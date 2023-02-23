@@ -11,9 +11,9 @@ Develop and deploy of Traveler variety of residing places booking app using MERN
 * Favuorite places based on users rating
 
 ## Technologies:
-*React
-*Node js, Express Js
-*MongoDb
+* React
+* Node js, Express Js
+* MongoDb
 * JWT, Auth
 * Redux/toolkit
 
