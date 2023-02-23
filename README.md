@@ -19,7 +19,7 @@ Develop and deploy of Traveler variety of residing places booking app using MERN
 
 
 ## Setup
-1. Clone the [main repository](https://github.com/MERN-full-stack-hotel-booking-app) 
+1. Clone the [main repository](https://github.com/ermiyasassegu/MERN-full-stack-hotel-booking-app.git) 
 2. Install dependencies
    ```bash
    npm i
