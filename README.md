@@ -7,7 +7,7 @@ Develop and deploy of Traveler variety of residing places booking app using MERN
 * Admin Room management
 * Admin User management
 * Admin Booking management
-* Type of redising places
+* Type of residing places
 * Favuorite places based on users rating
 
 ## Technologies:
